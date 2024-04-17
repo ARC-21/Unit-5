@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Unit 5 Files -- student">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/karel2_c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
